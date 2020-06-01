@@ -1,0 +1,12 @@
+﻿{
+  "PrerenderConfiguration": {
+    "ServiceUrl": "https://bisorun.com:3000",
+    "Token": "G9PSpbIU5XgZIYUaRg1N",
+    "CrawlerUserAgentPattern": null,
+    "WhiteListPattern": null,
+    "BlackListPattern": "lib|css|js",
+    "AdditionalExtensionPattern": null,
+    "ProxyUrl": null,
+    "ProxyPort": 80
+  }
+}
